@@ -6,3 +6,7 @@ p {
 .grid-container {
     background: rgba(145, 48, 48, 0.719);
 }
+
+q {
+    color: red;
+}
